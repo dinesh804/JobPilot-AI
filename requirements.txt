@@ -1,0 +1,9 @@
+streamlit
+pydantic
+pymupdf
+langchain
+langchain-community
+langchain-ollama
+langgraph
+requests
+python-dotenv
