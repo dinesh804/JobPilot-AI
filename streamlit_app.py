@@ -79,8 +79,8 @@ st.markdown(
 
 st.write(
     "Upload your resume and JobPilot will analyze your profile, "
-    "search jobs, calculate matching scores, and recommend relevant opportunities."
-)
+    "search jobs, calculate matching scores, and recommend relevant opportunities.",
+"[If the demo will not work ,the cloud free trial is end i wil change later ]")
 
 
 # ============================================================
